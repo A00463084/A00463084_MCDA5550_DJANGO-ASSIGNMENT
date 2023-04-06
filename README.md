@@ -2,6 +2,18 @@
 
 By: Francis Alex Kuzhippallil (A00463084)
 
+
+# ENTERING THE VITRUAL ENVIORNMENT
+
+django_env\Scripts\activate.bat
+
+# Running Django
+
+cd A00463084_django_assignment
+
+python manage.py runserver
+
+
 # SCREENSHOTS OF EXECUTION
 
 ## 1. ADDING HOTELS TO THE DATABASE
